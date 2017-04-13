@@ -24,4 +24,5 @@ A polygon is a unknown number of points, because of this i'm using a vector to s
 The class has multiple functions to either get the number of points in the polygon or to create a new polygon by merging the current and either adding a point, line or another polygon.
 It also contains of operator overloading to easy return the points in the polygon. 
 
-Feel free to use the code as your own! If you have any questions regarding the project, don't hesitate to contact! 
+
+**Feel free to use the code as your own! If you have any questions regarding the project, don't hesitate to contact!**
