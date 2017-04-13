@@ -5,7 +5,7 @@
 
 using namespace std;
 
-Point::Point(int x, int y, int z) //Konstruktør
+Point::Point(int x, int y, int z) //Constructor
 {
 	xKord = x;
 	yKord = y;
