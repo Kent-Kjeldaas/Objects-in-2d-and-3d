@@ -12,7 +12,7 @@ Point::Point(int x, int y, int z) //Constructor
 	zKord = z;
 }
 
-std::ostream &operator<<(std::ostream &stream, Point p) { //cout << punkt;
+std::ostream &operator<<(std::ostream &stream, Point p) { //cout << point;
 	stream << "(" << p.getX() << ", " << p.getY() << ", " << p.getZ() << ")";
 	return stream;
 }
