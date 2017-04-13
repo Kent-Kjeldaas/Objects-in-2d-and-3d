@@ -1,6 +1,7 @@
 # Objects in 2d and 3d
 
 The project contains three classed to describe geometric points, lines and polygons by coordinates in 2d (x,y) or 3d (x,y,z).
+**Feel free to use the code as your own! If you have any questions regarding the project, don't hesitate to contact!**
 
 ## Summary
 
@@ -23,6 +24,3 @@ A point p which is the start point of the line, and a point q which is the end p
 A polygon is a unknown number of points, because of this i'm using a vector to store this undefined number. The constructor expects the input of the polygon object to consist of the points making up the polygon.
 The class has multiple functions to either get the number of points in the polygon or to create a new polygon by merging the current and either adding a point, line or another polygon.
 It also contains of operator overloading to easy return the points in the polygon. 
-
-
-**Feel free to use the code as your own! If you have any questions regarding the project, don't hesitate to contact!**
