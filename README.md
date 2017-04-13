@@ -1,13 +1,14 @@
 # Objects in 2d and 3d
 
 The project contains three classed to describe geometric points, lines and polygons by coordinates in 2d (x,y) or 3d (x,y,z).
-**Feel free to use the code as your own! If you have any questions regarding the project, don't hesitate to contact!**
 
 ## Summary
 
 Each of the classes mentioned above is used to describe point object, line objects and polygones with 2d and 3d coordinates. The main file "Objects-in-2d-and-3d" shows examples on how these classes can be used. 
 It stats by creating 4 points, these points are then divided into two groups to create one line each. A vector is used for polygon and both points and lines can be pushed into the vector to create a polygon. 
 A polygon can also be created with another polygon and a point or a line, this is also demonstrated in this file.
+
+**Feel free to use the code as your own! If you have any questions regarding the project, don't hesitate to contact!**
 
 ### Point Class
 
