@@ -1,6 +1,6 @@
 # Objects in 2d and 3d
 
-The project contains three classed to describe geometric points, lines and polygons by coordinates in 2d (x,y) or 3d (x,y,z).
+The project contains three classes to describe geometric points, lines and polygons by coordinates in 2d (x,y) or 3d (x,y,z).
 
 ## Summary
 
